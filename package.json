@@ -2,7 +2,7 @@
     "name": "rebound-delete",
     "displayName": "Rebound Delete",
     "description": "Changes the CMD+Backspace behavior to work like Sublime Text",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "aaronbushnell",
     "engines": {
         "vscode": "^1.5.0"
