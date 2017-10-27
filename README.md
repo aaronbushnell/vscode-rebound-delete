@@ -8,5 +8,8 @@ One of my favorite features of Sublime is using `CMD+Backspace` to delete the co
 ## After
 ![after](images/after.gif)
 
+## ⚠️ Disclaimer
+This has only been tested on macOS, but feel free to send a PR to add support for other operating systems!
+
 ## Icon Credits
 Created by Makarenko Andrey from the Noun Project
